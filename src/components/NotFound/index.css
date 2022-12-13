@@ -1,0 +1,40 @@
+.not-found-dark-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000000;
+}
+.not-found-dark-heading {
+  color: #dcdcdc;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.not-found-dark-para {
+  color: #dcdcdc;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.not-found-img {
+  height: 250px;
+  width: 250px;
+}
+.not-found-light-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+.not-found-light-heading {
+  color: #1e293b;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.not-found-light-para {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
